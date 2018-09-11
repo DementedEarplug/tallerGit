@@ -1,5 +1,5 @@
 
-# Git Workshop Im not a horse, I dont eat hay.
+# Git Workshop No APOLOGIES ACCEPTED.
 
 
 ## This is a test for the first commit
